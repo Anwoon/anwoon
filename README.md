@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - ✏️ I've been learning development for 15 years, Now i make a lot of side project (private)
-- 💼 &nbsp; Working as Web developper backend`
+- 💼 &nbsp; Working as Web developper backend
 
 <h3>🛠 Stack</h3>
 
@@ -18,6 +18,6 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
-<h3>🛜 Contact</h3>
+<h3>Contact</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) Anwoon
